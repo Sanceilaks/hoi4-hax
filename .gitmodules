@@ -1,0 +1,9 @@
+[submodule "minhook"]
+	path = minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "reutl"]
+	path = reutl
+	url = https://github.com/Sanceilaks/reutl.git

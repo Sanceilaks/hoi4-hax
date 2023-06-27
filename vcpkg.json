@@ -1,0 +1,9 @@
+{
+    "name": "vcpkg",
+    "version": "1.0.0",
+    "dependencies": [
+        "spdlog",
+        "cr",
+        "fmt"
+    ]
+}
